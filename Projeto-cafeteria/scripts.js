@@ -7,6 +7,6 @@ function clicounoModal () {
 }
 
 function esconderModal () {
-    modal.style.left = '-30%'
+    modal.style.left = '-31%'
     mascara.style.visibility = 'hidden'
 }
